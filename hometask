@@ -1,1 +1,20 @@
 # 27.01.2017
+Paradigm problemin mezmununa , tipine uygun hell (solution type) yoludur. 
+Paradigmlerin sayi coxdur ve texnoligiyanin inkisafi ile yeni paradigmler tapilir.
+4 esas paradigm var :
+*Logic
+*Functional
+*Imperial
+*OOP
+
+  *Logic - mentiqi hell usuludur. Lisp, Prolog kimi dillerde mentiqi formada emrlerden istifade ederek result elde edir.
+  *Functional - funksiyalardan ibaret hell usuludur. Basic, Ruby, Phyton, Perl kimi dillerde functional paradigmlardan qarisiq 
+riyazi hesablamalarin helli ucun istifade olunur. 
+  *Imperial - Ardicil emrlerin istifadesi ile sade, effectiv paradigmdir. Roboticsde ve meiset texnologiyalarinda genis istifade olunur.
+  *OOP - Object Oriented Programming paradigmi her bir seyi object kimi qebul edir. Bu objectler classlara aid olur. 
+  Classlar oz aralarinda parent ve child elaqeleri olur. Her bir classin child  classi olur ve hemin class digerinin parent classi olur.
+  Bu da inheritence adlanir . Bu kimi bir nece anlayis/model(concept) var OOP-da.
+  #Inheritance - mirasalma kimi ifade ede bilerem. 
+  #Encapsulation - Ismayilin wexsi heyati
+  #Polymorphism - Polymorphism bir metodun bir nece classda basqa - basqa meqsedlerle istifadesidir.
+  and so and on .....
